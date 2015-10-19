@@ -1,0 +1,19 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.suo
+*.user
+
+# Generated files
+*.dbmdl
+
+# NCrunch
+*.ncrunchproject
+*.ncrunchsolution
+*.ncrunchsolution.user
+_NCrunch_*
+
+# TFS
+*.vspscc
